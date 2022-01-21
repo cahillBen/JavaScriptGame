@@ -1,0 +1,13 @@
+canvas {
+    background-color: black;
+    display: block;
+    margin: 1em auto;
+}
+
+section {
+    border: 1px solid black;
+}
+
+#underGame {
+    color: black;
+}
